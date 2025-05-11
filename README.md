@@ -1,5 +1,5 @@
 Stronghold Kingdom Simulator
-Gameplay Screenshot
+
 
 📌 Overview
 Stronghold is a turn-based kingdom management game where you rule as a monarch, making strategic decisions to maintain your kingdom's prosperity. Manage resources, train armies, negotiate treaties, and survive random events like wars, plagues, and assassinations!
